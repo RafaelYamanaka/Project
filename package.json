@@ -20,6 +20,7 @@
     "passport-local": "^1.0.0",
     "rxjs": "^6.5.1"
   },
+  "homepage":"https://rafaelyamanaka.github.io/signup",
   "devDependencies": {
     "nodemon": "^1.19.0"
   }
