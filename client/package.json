@@ -29,6 +29,8 @@
     "tslib": "^1.9.0",
     "zone.js": "~0.8.26"
   },
+  "homepage": "https://rafaelyamanaka.github.io/Project/",
+  
   "devDependencies": {
     "@angular-devkit/build-angular": "^0.13.9",
     "@angular/cli": "~7.1.0",
