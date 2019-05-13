@@ -20,7 +20,7 @@
     "passport-local": "^1.0.0",
     "rxjs": "^6.5.1"
   },
-  "homepage": "https://rafaelyamanaka.github.io/",
+  "homepage": "https://rafaelyamanaka.github.io/Project/",
   "devDependencies": {
     "angular-cli-ghpages": "^0.5.3",
     "nodemon": "^1.19.0"
